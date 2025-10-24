@@ -1,0 +1,5 @@
+{
+  "name": "OfficeKir AI Talent Matcher",
+  "description": "An AI-integrated recruitment tool where Admins can instantly find the best candidate by analyzing resume content using vector similarity. This frontend is a standalone demonstration with a mocked backend.",
+  "requestFramePermissions": []
+}
